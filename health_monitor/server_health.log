@@ -1,0 +1,17 @@
+Server Health Report
+Date: Thu Jun  4 22:57:49 IST 2026
+
+Hostname:
+YPLOQ
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  854G  792G   63G  93% /
+D:                     98G   95G  3.1G  97% /d
+
+Processes:
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1910    1861    1910       2640  pty0      197609 22:57:49 /usr/bin/sh
+     1861    1860    1861      22708  pty0      197609 22:34:45 /usr/bin/bash
+     1860       1    1860      24896  ?         197609 22:34:45 /usr/bin/mintty
+     1914    1910    1910      26304  pty0      197609 22:57:49 /usr/bin/ps

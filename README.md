@@ -1,4 +1,4 @@
-"# LnTMiniProd - DevOps Mini Project
+# LnTMiniProd - DevOps Mini Project
 
 DevOps mini project showcasing Kubernetes, Docker, autoscaling, health monitoring, and CI/CD.
 
